@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b70a83ae-0049-4f5e-901b-2d20b3bcc0f8" name="Portfolio" url="http://localhost">
+        <fileTransfer mountedRoot="/Applications/MAMP/htdocs/showcase WebSite/Portfolio" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
