@@ -1,30 +1,31 @@
 
-PWeb:AvoidCommentedOutCodeCheck<"Remove this commented out code.(þé©À8¡ÛÿÅê1
-vWeb:AvoidCommentedOutCodeCheck{"Remove this commented out code.(Ÿ´éÏ8óçÝ•ã1J$72d23ebc-23b1-4a5a-b79c-a65a04284092
-…	Web:S6851”"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¾ú¯ŸJ$3c258f85-a204-4b45-be68-e74088e38d6a
-‹	Web:S6851¢"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(µû•n8¦¹Õ–ã1J$929479be-25a3-478a-a9de-01d1eae3c3bd
-„	Web:S6851°"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¦Ä±yJ$7a9523ef-ada8-4d2a-ae51-21f5c7b04b11
-uWeb:AvoidCommentedOutCodeCheck½"Remove this commented out code.(µšÝ¾úÿÿÿÿJ$e5e688a1-10ec-4b64-8f9a-7ad4224c900e
-uWeb:AvoidCommentedOutCodeCheck¾"Remove this commented out code.(íª²–ýÿÿÿÿJ$9999bdac-b5ce-4f86-84a9-19a15c1d003d
-pWeb:AvoidCommentedOutCodeCheck¿"Remove this commented out code.(é·ÎäJ$bb22f55c-1ace-4417-a6a8-5df4718617bb
-uWeb:AvoidCommentedOutCodeCheckÀ"Remove this commented out code.(ÔúÖìùÿÿÿÿJ$4ace7ae8-5f49-4f42-a968-787d4529dc93
-uWeb:AvoidCommentedOutCodeCheckÁ"Remove this commented out code.(ù¹ÐÜûÿÿÿÿJ$b4a20bd9-0833-4e16-b542-9a5a554e855c
-pWeb:AvoidCommentedOutCodeCheckÂ"Remove this commented out code.(‹ü­½J$7775d31f-5155-4523-b610-8f3bee4f869d
-uWeb:AvoidCommentedOutCodeCheckÃ"Remove this commented out code.(ÔúÖìùÿÿÿÿJ$23af3943-233a-4af2-863e-f9ff2e373636
-uWeb:AvoidCommentedOutCodeCheckÄ"Remove this commented out code.(Îé¾ãüÿÿÿÿJ$f7322d1f-d2e2-4612-a415-457247f23d40
-pWeb:AvoidCommentedOutCodeCheckÅ"Remove this commented out code.(‹ü­½J$74313f55-b598-4af1-be2e-ecc24d5834d9
-uWeb:AvoidCommentedOutCodeCheckÆ"Remove this commented out code.(ÔúÖìùÿÿÿÿJ$4638028f-00cb-4ac6-982d-4502d4adccf5
-pWeb:AvoidCommentedOutCodeCheckÇ"Remove this commented out code.(õµµJ$7eaa2b5b-1e4c-48e6-b25d-c1bfdc399bc7
-pWeb:AvoidCommentedOutCodeCheckÈ"Remove this commented out code.(‹ü­½J$0350e37d-7771-4da8-8985-9e54d33f9aec
-uWeb:AvoidCommentedOutCodeCheckÉ"Remove this commented out code.(ÔúÖìùÿÿÿÿJ$04cb0e20-acce-42ca-8035-9553813fb356
-uWeb:AvoidCommentedOutCodeCheckÊ"Remove this commented out code.(©ãŠÁÿÿÿÿÿJ$42074489-d3c4-483a-ae19-80de13678153
-pWeb:AvoidCommentedOutCodeCheckË"Remove this commented out code.(‹ü­½J$d6fc2b7a-c1d8-4d40-a67d-5a654e065199
-pWeb:AvoidCommentedOutCodeCheckÌ"Remove this commented out code.(‹ü­½J$b4c1ec95-6efe-4e0a-9535-7d7c613d28fa
-pWeb:AvoidCommentedOutCodeCheckÍ"Remove this commented out code.(‹ü­½J$8b490f6c-d8ef-4d7c-ad11-f9a7d8f869c8
-pWeb:AvoidCommentedOutCodeCheckÎ"Remove this commented out code.(‹ü­½J$087a7215-7fd5-40d3-954d-c4222a726e51
-…	Web:S6851ß"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(üÔ“ôJ$397fbac7-a5ba-4ed1-ad24-a17074958618
-…	Web:S6851ø"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(£¤ÔÒJ$17a08811-d081-4720-9f96-38da5664915d
-…	Web:S6851‚"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(ø¢´—J$0840d259-d041-4189-87a6-da300eefa553
-…	Web:S6851"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(ÖçÖÄJ$81ecd128-9b50-4df0-a3e7-962ebfdc9918
-„	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ò€‘óøÿÿÿÿJ$70c5a54b-3c5f-47cc-a524-620f709b4dff
-„	Web:S52553"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ëÊýÃûÿÿÿÿJ$7c7c81db-55e7-447e-a1d6-154b173846a9
+‹	Web:S6851}"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¨ðçë8± üŽÃ2J$521feb31-e65a-4b52-988f-ecf98dae4746
+|Web:AvoidCommentedOutCodeCheck‹"Remove this commented out code.(µšÝ¾úÿÿÿÿ8û¼ªÃ2J$6f041dbb-736c-45d6-8780-b2f91f427f6a
+|Web:AvoidCommentedOutCodeCheckŒ"Remove this commented out code.(íª²–ýÿÿÿÿ8û¼ªÃ2J$3b000ffd-2b11-4260-b047-b3c250fbba70
+wWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(é·Îä8ü¼ªÃ2J$29bb881a-a2cc-4818-886d-92babdd266df
+|Web:AvoidCommentedOutCodeCheckŽ"Remove this commented out code.(ÔúÖìùÿÿÿÿ8ü¼ªÃ2J$61cc219a-729b-455b-9fcf-a1e8d22c51e2
+wWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(¹ÎÉŠ8ü¼ªÃ2J$546462e5-c778-4d67-8d14-6163eafb0807
+wWeb:AvoidCommentedOutCodeCheck"Remove this commented out code.(‹ü­½8ý¼ªÃ2J$9d3aed4d-ad3b-4df1-a517-952e7bfa0fe6
+|Web:AvoidCommentedOutCodeCheck‘"Remove this commented out code.(ÔúÖìùÿÿÿÿ8ý¼ªÃ2J$a2b6f40a-fc4c-4b50-ab21-8b7e2e69e4ca
+|Web:AvoidCommentedOutCodeCheck’"Remove this commented out code.(Îé¾ãüÿÿÿÿ8ý¼ªÃ2J$3c78e095-cbe3-4e20-800d-2ae7f97cad4f
+wWeb:AvoidCommentedOutCodeCheck“"Remove this commented out code.(‹ü­½8ý¼ªÃ2J$10edcd74-162d-4f41-b0b4-4031aca787d4
+|Web:AvoidCommentedOutCodeCheck”"Remove this commented out code.(ÔúÖìùÿÿÿÿ8ý¼ªÃ2J$92853914-7d0e-4621-9090-0ac261aaef14
+wWeb:AvoidCommentedOutCodeCheck•"Remove this commented out code.(õµµ8ý¼ªÃ2J$95e6a15e-8026-4086-8481-18dbb2d5739c
+wWeb:AvoidCommentedOutCodeCheck–"Remove this commented out code.(‹ü­½8þ¼ªÃ2J$a4830085-e09f-4943-ae32-05ec0592383a
+|Web:AvoidCommentedOutCodeCheck—"Remove this commented out code.(ÔúÖìùÿÿÿÿ8þ¼ªÃ2J$34a6d80e-1423-485c-9db7-aefb32e3fa83
+|Web:AvoidCommentedOutCodeCheck˜"Remove this commented out code.(©ãŠÁÿÿÿÿÿ8þ¼ªÃ2J$30a53703-850c-445f-aac8-19158e42cdd6
+wWeb:AvoidCommentedOutCodeCheck™"Remove this commented out code.(‹ü­½8þ¼ªÃ2J$f63c0ff4-a846-4504-ac98-b2c07641a665
+wWeb:AvoidCommentedOutCodeCheckš"Remove this commented out code.(‹ü­½8þ¼ªÃ2J$083bbf17-4e60-4f93-a40e-a1d197820c66
+wWeb:AvoidCommentedOutCodeCheck›"Remove this commented out code.(‹ü­½8þ¼ªÃ2J$1f61a3b0-7646-435a-8106-36b47198504f
+wWeb:AvoidCommentedOutCodeCheckœ"Remove this commented out code.(‹ü­½8þ¼ªÃ2J$4a48bbe7-0b39-40c1-827c-05e970292cd4
+wWeb:AvoidCommentedOutCodeCheck«"Remove this commented out code.(Ÿ´éÏ8³ üŽÃ2J$afcaec50-0fb5-4cfa-834f-0579058cbd6f
+Œ	Web:S6851Ä"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(žœËç8‘ýŽÃ2J$915857f3-ba52-4e66-855e-de0bf9960b38
+‹	Web:S6851Ò"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(µû•n8“ýŽÃ2J$bc74ac3a-9814-4c47-8fd4-de57b2a62e99
+‹	Web:S6851à"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(¦Ä±y8”ýŽÃ2J$26554166-485f-498f-8e3d-8d733f2f5f0e
+‘	Web:S6851î"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(Öý×Òüÿÿÿÿ8ïäºÕÃ2J$48e55a68-88af-4916-867d-6c48e399176d
+Œ	Web:S6851ü"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(‘Êº‚8¥·ÔÕÃ2J$7024fda4-baf7-4fc7-8591-6b3e09296b10
+Œ	Web:S6851”"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(£¤ÔÒ8”ýŽÃ2J$440789f1-4dd6-43f7-a860-ce186b0d2940
+Œ	Web:S6851ž"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(ø¢´—8•ýŽÃ2J$afbd9ed3-3acf-48a5-803a-643d5c5dfca3
+Œ	Web:S6851©"IRemove redundant word "image" from the "alt" attribute of your "img" tag.(ÖçÖÄ8•ýŽÃ2J$a839785b-38ee-4f0a-8174-a771982d2989
+„	Web:S5255"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ò€‘óøÿÿÿÿJ$473615da-c7c4-43aa-8740-5f1400c89064
+„	Web:S52554"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(ëÊýÃûÿÿÿÿJ$50ccbbd0-983a-4d38-b612-a134eaab9953

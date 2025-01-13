@@ -29,3 +29,9 @@ A
 	main.html,2/d/2d6427cfcffb5ef37b2d32bd7aac8a9b7450a987
 @
 blog-single.html,f/6/f69c894266bf3b493e904d06ff94293120b2eddb
+:
+
+readme.txt,4/5/451685e9efac4a6dc1fee73ec53ffb6b2c4c38b5
+:
+
+.gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
