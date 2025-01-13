@@ -91,7 +91,7 @@
                 <div class="row align-items-center">
 
                     <div class="col-md-10 mx-auto text-center">
-                        <h1 class="heading" data-aos="fade-up">RESTful Web API Project</h1>
+                        <h1 class="heading" data-aos="fade-up">Evolve APICompare</h1>
                         <h2 class="subheading" data-aos="fade-up" data-aos-delay="100">Far far away, behind the word mountains, far from the countries.</h2>
                     </div>
 
@@ -112,26 +112,35 @@
         <div class="container">
             <div class="portfolio-single-wrap unslate_co--section" id="portfolio-single-section">
                 <div class="portfolio-single-inner">
-                    <h2 class="heading-portfolio-single-h2">RESTful Web API Project</h2>
+                    <h2 class="heading-portfolio-single-h2">Evolve APICompare</h2>
 
                     <div class="row gutter-v4 align-items-stretch mb-5">
                         <div class="col-sm-6 col-md-6 col-lg-8 blog-post-entry">
 
-                            <a href="images/apirest_home.png" class="grid-item blog-item w-100 h-100" data-fancybox="gal" data-caption="A nice caption will be place here">
+                            <a href="images/apicompare_schema.png" class="grid-item blog-item w-100 h-100" data-fancybox="gal" data-caption="A nice caption will be place here">
                                 <div class="overlay">
                                     <div class="portfolio-item-content">
                                         <h3>A nice caption will be place here</h3>
                                     </div>
                                 </div>
-                                <img src="images/apirest_home.png" class="lazyload" alt="Image" />
+                                <img src="images/apicompare_schema.png" class="lazyload" alt="Image" />
                             </a>
 
                         </div>
                         <div class="col-sm-6 col-md-6 col-lg-4 blog-post-entry">
-                            <a href="images/apirest_utilisateur.png" class="grid-item blog-item w-100 h-100" data-fancybox="gal">
+                            <a href="images/apicompare-review.png" class="grid-item blog-item w-100 h-100" data-fancybox="gal">
                                 <div class="overlay"></div>
-                                <img src="images/apirest_utilisateur.png" class="lazyload" alt="Image" />
+                                <img src="images/apicompare-review.png" class="lazyload" alt="Image" />
                             </a>
+                        </div>
+
+                        <div class="col-sm-6 col-md-6 col-lg-4 blog-post-entry">
+
+                            <a href="images/apicompare-dashboard.png" class="grid-item blog-item w-100 h-100" data-fancybox="gal">
+                                <div class="overlay"></div>
+                                <img src="images/apicompare-dashboard.png" class="lazyload" alt="Image" />
+                            </a>
+
                         </div>
 
                     </div>
@@ -142,13 +151,13 @@
                                 <div class="col-sm-6 col-md-6 col-lg-3">
                                     <div class="detail-v1">
                                         <span class="detail-label">Project Date</span>
-                                        <span class="detail-val">November to December, 2024</span>
+                                        <span class="detail-val">May, 2024</span>
                                     </div>
                                 </div>
                                 <div class="col-sm-6 col-md-6 col-lg-3">
                                     <div class="detail-v1">
                                         <span class="detail-label">Role</span>
-                                        <span class="detail-val">Team Developer</span>
+                                        <span class="detail-val">Apprentice Developer</span>
                                     </div>
                                 </div>
                             </div>
@@ -159,30 +168,40 @@
                                 <div class="col-12 mb-4">
                                     <h3>Context</h3>
                                     <p>
-                                        During my team development projects, I played a key role in structuring and initiating each project,
-                                        both for the <strong style="color: #3498db;">backend</strong> and <strong style="color: #3498db;">frontend</strong>. My experience in the workplace allowed me to bring an organized framework,
-                                        essential for facilitating the progress of the work, especially in setting up <strong style="color: #3498db;">project foundations</strong>, <strong style="color: #3498db;">version management</strong>, and <strong style="color: #3498db;">environment preparation</strong>.
+                                        During my apprenticeship at <strong>G2S</strong>, I was tasked with modernizing and automating the internal application
+                                        <strong>“API Compare”</strong>. This application compares database (DB) results between multiple environments
+                                        in order to identify differences based on datasets.
                                     </p>
                                 </div>
 
-                                <!-- Goals and Achievements -->
+                                <!-- Goals and improvements -->
                                 <div class="col-12 mb-4">
-                                    <h3>Goals and Achievements</h3>
+                                    <h3>Goals and Improvements</h3>
                                     <ul>
-                                        <li><strong>Backend Project Initialization:</strong> Set up the <strong style="color: #3498db;">Git repository</strong>, explained best <strong style="color: #3498db;">version control</strong> practices, and
-                                            configured <strong style="color: #3498db;">API routes</strong> following previously done exercises.</li>
+                                        <li><strong>Redesign of configuration files:</strong> Replacing static YAML files with generalized and configurable
+                                            <code>.tpl</code> template files.</li>
 
-                                        <li><strong>Database Management:</strong> Uploaded the <strong style="color: #3498db;">database</strong> to ensure its availability, allowing my teammates to begin
-                                            their work without wasting time.</li>
+                                        <li><strong>Complete automation:</strong> Development of several Shell scripts (<code>zvariabilize.sh</code>, <code>zexecutionerjar</code>) for:
+                                            <ul>
+                                                <li>Variable generation of configuration files.</li>
+                                                <li>Running the Java application via Maven.</li>
+                                                <li>Deployment on the server.</li>
+                                            </ul>
+                                        </li>
 
-                                        <li><strong>Frontend Project Initialization:</strong> Set up the <strong style="color: #3498db;">Git repository</strong> and project structure to ensure a consistent and
-                                            organized working environment from the start.</li>
+                                        <li><strong>CI/CD deployment:</strong> Implementation of a GitLab CI/CD pipeline enabling:
+                                            <ul>
+                                                <li>Automatic deployment after a merge to the main branch.</li>
+                                                <li>Manual deployment upon request.</li>
+                                            </ul>
+                                        </li>
 
-                                        <li><strong>Component and View Creation:</strong> Developed the first <strong style="color: #3498db;">components</strong> and <strong style="color: #3498db;">view structures</strong>, along with basic <strong style="color: #3498db;">CSS</strong> styles
-                                            to make it easier for the team to work and focus on functional details.</li>
-
-                                        <li><strong>Continuous Support:</strong> Given my workplace experience, I took charge of the initial project setup, guiding my
-                                            teammates, answering their questions, and simplifying the progress of the work.</li>
+                                        <li><strong>Reporting and Accessibility:</strong>
+                                            <ul>
+                                                <li>Generation of test reports using the <code>ExtentReport</code> library in the form of clear and interactive HTML pages.</li>
+                                                <li>Integration of results into the collaborative dashboard <code>GLab</code>, facilitating test tracking and execution history visualization.</li>
+                                            </ul>
+                                        </li>
                                     </ul>
                                 </div>
 
@@ -190,9 +209,9 @@
                                 <div class="col-12 mb-4">
                                     <h3>Results</h3>
                                     <ul>
-                                        <li>Created an <strong style="color: #3498db;">organized working environment</strong>, allowing the team to quickly focus on functional development.</li>
-                                        <li>Optimized project progress through clear initialization of essential elements (<strong style="color: #3498db;">git</strong>, <strong style="color: #3498db;">routes</strong>, <strong style="color: #3498db;">database</strong>, <strong style="color: #3498db;">components</strong>).</li>
-                                        <li>Strengthened team spirit by facilitating <strong style="color: #3498db;">collaboration</strong> and ensuring smooth work between <strong style="color: #3498db;">backend</strong> and <strong style="color: #3498db;">frontend</strong>.</li>
+                                        <li>Optimization of the testing process with dynamic and reusable configuration files.</li>
+                                        <li>Complete automation of deployment and testing.</li>
+                                        <li>Improvement of result visibility for the team, making analysis and debugging easier.</li>
                                     </ul>
                                 </div>
                             </div>
